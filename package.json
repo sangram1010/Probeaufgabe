@@ -6,6 +6,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "vue": "^3.0.5"
   },
   "devDependencies": {
@@ -13,7 +14,7 @@
     "@vue/compiler-sfc": "^3.0.5",
     "autoprefixer": "^10.2.6",
     "postcss": "^8.3.0",
-    "tailwindcss": "^2.1.4",
+    "tailwindcss": "^2.2.7",
     "vite": "^2.3.5"
   }
 }
